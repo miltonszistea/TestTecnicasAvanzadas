@@ -2,9 +2,9 @@ Final de Herramientas de Programación - ISTEA 2023
 
 Aplicación de Venta de Máquinas - CRUD:
 
-Esta es una aplicación web cuyo objetivo es lograr la gestión integral de negocio de venta de máquinas orientadas al reciclaje de plástico, extendiendo el proyecto "Precious Plastic", cuya licencia es Creative Commons Attribution, que a su vez es un proyecto basado en One Army.
+Esta es una aplicación web cuyo objetivo es lograr la gestión integral de una comunidad que fomenta el negocio de venta de máquinas orientadas al reciclaje de plástico, extendiendo el proyecto "Precious Plastic", cuya licencia es Creative Commons Attribution, que a su vez es un proyecto basado en One Army.
 La presente aplicación fue desarrollada en C# y el framework ASP.NET con arquitectura MVC. 
-Permite realizar operaciones básicas de Crear, Leer, Actualizar y Eliminar (CRUD) registros de estas máquinas en una base de datos SQLite.
+Permite realizar operaciones básicas de Crear, Leer, Actualizar y Eliminar (CRUD) registros de estas máquinas en una base de datos SQLite que es utilizada por la comunidad para gestionar su Bazar, donde diferentes vendedores colocan su producto en oferta (que puede ser del tipo máquina, molde, material -materia prima- u objeto final).
 
 Características principales de la aplicación web:
 

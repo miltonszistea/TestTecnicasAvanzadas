@@ -29,5 +29,7 @@ Notas
 Esta aplicación de ejemplo fue desarrollada con fines educativos y puede ser modificada y adaptada según las necesidades específicas de tu negocio de venta de máquinas. Asegúrate de revisar y ajustar el código según tus requisitos.
 
 
-Licencia
+Licencia:
 Esta aplicación está bajo la Licencia Creative Commons Attribution. 
+
+Milton Szpryngier

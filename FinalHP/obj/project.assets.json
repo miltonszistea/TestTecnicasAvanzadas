@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mszpryngier\\OneDrive - RANSecurity\\Escritorio\\HerramientasProgramacion\\FinalHP\\FinalHP\\FinalHP.csproj",
+      "projectUniqueName": "C:\\Users\\mszpryngier\\OneDrive - RANSecurity\\Escritorio\\HerramientasProgramacion\\FinalHP\\FinalHP\\FinalHP\\FinalHP\\FinalHP.csproj",
       "projectName": "FinalHP",
-      "projectPath": "C:\\Users\\mszpryngier\\OneDrive - RANSecurity\\Escritorio\\HerramientasProgramacion\\FinalHP\\FinalHP\\FinalHP.csproj",
+      "projectPath": "C:\\Users\\mszpryngier\\OneDrive - RANSecurity\\Escritorio\\HerramientasProgramacion\\FinalHP\\FinalHP\\FinalHP\\FinalHP\\FinalHP.csproj",
       "packagesPath": "C:\\Users\\mszpryngier\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mszpryngier\\OneDrive - RANSecurity\\Escritorio\\HerramientasProgramacion\\FinalHP\\FinalHP\\obj\\",
+      "outputPath": "C:\\Users\\mszpryngier\\OneDrive - RANSecurity\\Escritorio\\HerramientasProgramacion\\FinalHP\\FinalHP\\FinalHP\\FinalHP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mszpryngier\\AppData\\Roaming\\NuGet\\NuGet.Config"

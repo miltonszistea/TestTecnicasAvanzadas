@@ -20,7 +20,7 @@
 
 
 
-# Final de Herramientas de Programación - ISTEA 2023
+# Final de Herramientas de Programación ':wrench:' - ISTEA 2023
 
 ## Aplicación de Venta de Máquinas - CRUD:
 

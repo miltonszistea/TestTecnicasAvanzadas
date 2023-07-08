@@ -21,7 +21,7 @@ Esta es una aplicación web cuyo objetivo es lograr la gestión integral de una 
 La presente aplicación fue desarrollada en C# y el framework ASP.NET con arquitectura MVC. 
 Permite realizar operaciones básicas de Crear, Leer, Actualizar y Eliminar (CRUD) registros de estas máquinas en una base de datos SQLite que es utilizada por la comunidad para gestionar su Bazar, donde diferentes vendedores colocan su producto en oferta (que puede ser del tipo máquina, molde, material -materia prima- u objeto final).
 
-## Características principales de la aplicación web:
+## Características principales de la aplicación web :factory::
 
 Gestión Integral para un Shop de máquinas: Permite agregar, visualizar, actualizar y eliminar información de las máquinas disponibles para la venta.
 Información detallada: Cada máquina incluye detalles como nombre, descripción, precio, categoría, y cantidad en stock.

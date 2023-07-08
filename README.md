@@ -48,7 +48,7 @@ Esta aplicación de ejemplo fue desarrollada con fines educativos y puede ser mo
 ## Licencia :black_nib::
 Esta aplicación está bajo la Licencia Creative Commons Attribution. 
 
-## Autor :man_raising_hand:
+## Autor &#x1F64B;&#x200D;&#x2642;&#xFE0F; :
 Milton Szpryngier :wave:
 
 ¡Contactame via Linkedin! :point_down:

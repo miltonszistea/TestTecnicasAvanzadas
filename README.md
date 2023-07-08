@@ -13,16 +13,9 @@
 
 
 
+# Final de :wrench:Herramientas de Programación:wrench: - ISTEA 2023
 
-
-
-
-
-
-
-# Final de Herramientas de Programación ':wrench:' - ISTEA 2023
-
-## Aplicación de Venta de Máquinas - CRUD:
+## Aplicación de Venta de Máquinas :computer: - CRUD:
 
 Esta es una aplicación web cuyo objetivo es lograr la gestión integral de una comunidad que fomenta el negocio de venta de máquinas orientadas al reciclaje de plástico, extendiendo el proyecto "Precious Plastic", cuya licencia es Creative Commons Attribution, que a su vez es un proyecto basado en One Army.
 La presente aplicación fue desarrollada en C# y el framework ASP.NET con arquitectura MVC. 
@@ -38,7 +31,7 @@ Experiencia de usuario: La aplicación cuenta con una interfaz intuitiva y de us
 
 Ahora, si utilizas este proyecto, podrás tener una fácil y eficiente gestión de tu stock de máquinas de procesamiento de plástico en tu negocio!
 
-## Contribuciones:
+## Contribuciones :books::
 
 Si deseas contribuir a esta aplicación, sigue los pasos a continuación:
 
@@ -51,7 +44,8 @@ Notas
 Esta aplicación de ejemplo fue desarrollada con fines educativos y puede ser modificada y adaptada según las necesidades específicas de tu negocio de venta de máquinas. Asegúrate de revisar y ajustar el código según tus requisitos.
 
 
-## Licencia:
+## Licencia :black_nib::
 Esta aplicación está bajo la Licencia Creative Commons Attribution. 
 
-Milton Szpryngier
+Milton Szpryngier :wave:
+ 

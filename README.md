@@ -1,5 +1,9 @@
 [![License](https://badgen.net/badge/license/CreativeCommons/blue)](https://badgen.net)
-[![Last commit](https://badgen.net/gitlab/last-commit/gitlab-org/gitlab-development-kit/updating-chromedriver-install-v2)](https://badgen.net)
+[![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat-square)](https://devicon.dev/)
+[![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=aspdotnet&style=flat-square)](https://devicon.dev/)
+[![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-FF9F00?logo=.net&style=flat-square)](https://devicon.dev/)
+[![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat-square)](https://devicon.dev/)
+
 
 
 

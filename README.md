@@ -33,15 +33,16 @@ Ahora, si utilizas este proyecto, podrás tener una fácil y eficiente gestión 
 
 ## Contribuciones :books::
 
-Si deseas contribuir a esta aplicación, sigue los pasos a continuación:
+Si tenes interés en contribuir a esta aplicación, podés seguir el siguiente paso a paso:
 
-Haz un fork del repositorio.
-Crea una rama para tu contribución.
-Realiza los cambios y mejoras necesarios.
-Envía un pull request indicando claramente los cambios realizados y su propósito.
-Espera la revisión y el feedback por parte del equipo.
+Realizar primero un fork del repositorio.
+Crear tu rama para la contribución.
+Realizar los cambios que consideres.
+Envíar un "pull request" (mencionando los cambios realizados).
+Esperar la revisión.
+¡Gracias!
 Notas
-Esta aplicación de ejemplo fue desarrollada con fines educativos y puede ser modificada y adaptada según las necesidades específicas de tu negocio de venta de máquinas. Asegúrate de revisar y ajustar el código según tus requisitos.
+Esta aplicación de ejemplo fue desarrollada con fines educativos y puede ser modificada y adaptada según las necesidades específicas de tu negocio de venta de máquinas. Sólo tenes que ajustar el código según tus requisitos.
 
 
 ## Licencia :black_nib::

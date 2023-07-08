@@ -1,4 +1,5 @@
 [![License](https://badgen.net/badge/license/CreativeCommons/blue)](https://badgen.net)
+[![Last comimt](https://badgen.net/#gitlab/last-commit/gitlab-org/gitlab-development-kit/updating-chromedriver-install-v2)](https://badgen.net)
 
 
 

@@ -1,4 +1,4 @@
-[![License](https://badgen.net/badge/license/CreativeCommons/blue)](https://badgen.net)
+[![License](https://badgen.net/badge/license/CreativeCommons/blue)](https://badgen.net)  
 [![Last Commit](https://img.shields.io/github/last-commit/miltonszistea/FinalHP?label=Last%20Commit&style=flat-square)](https://github.com/miltonszistea/FinalHP/commits)
 
 [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat-square)](https://devicon.dev/)
@@ -48,4 +48,6 @@ Esta aplicación de ejemplo fue desarrollada con fines educativos y puede ser mo
 Esta aplicación está bajo la Licencia Creative Commons Attribution. 
 
 Milton Szpryngier :wave:
- 
+¡Contactame via Linkedin!
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miltonszpryngier/)
+

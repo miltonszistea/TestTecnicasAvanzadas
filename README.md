@@ -48,8 +48,10 @@ Esta aplicación de ejemplo fue desarrollada con fines educativos y puede ser mo
 ## Licencia :black_nib::
 Esta aplicación está bajo la Licencia Creative Commons Attribution. 
 
+## Autor :man_raising_hand:
 Milton Szpryngier :wave:
-¡Contactame via Linkedin!
+
+¡Contactame via Linkedin! :point_down:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/miltonszpryngier/)
 

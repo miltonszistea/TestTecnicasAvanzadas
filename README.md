@@ -1,4 +1,6 @@
-[![Licencia](https://badgen.net/#static/license/CreativeCommons)](https://badgen.net/#static/license/CreativeCommons)
+[![License](https://badgen.net/badge/license/CreativeCommons/blue)](https://badgen.net)
+
+
 
 
 

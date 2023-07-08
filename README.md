@@ -1,4 +1,5 @@
-[![Texto alternativo]([https://badgen.net/#static/license/CreativeCommons])
+[![Licencia][https://badgen.net/#static/license/CreativeCommons]
+
 
 
 Final de Herramientas de Programación - ISTEA 2023

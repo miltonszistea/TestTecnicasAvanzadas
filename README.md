@@ -1,8 +1,16 @@
 [![License](https://badgen.net/badge/license/CreativeCommons/blue)](https://badgen.net)
+[![Last Commit](https://img.shields.io/github/last-commit/usuario/repositorio?label=Last%20Commit&style=flat-square)](https://github.com/usuario/repositorio/commits)
+
 [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat-square)](https://devicon.dev/)
 [![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=aspdotnet&style=flat-square)](https://devicon.dev/)
 [![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-FF9F00?logo=.net&style=flat-square)](https://devicon.dev/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&style=flat-square)](https://devicon.dev/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&style=flat-square)](https://devicon.dev/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=flat-square)](https://devicon.dev/)
+[![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=flat-square)](https://devicon.dev/)
+[![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=flat-square)](https://devicon.dev/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square)](https://devicon.dev/)
+
 
 
 
